@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6Czi9oJUjf1FDWOPgO",
+  "manufacturer": "Airbus",
+  "model": "A220",
+  "nickname": "None",
+  "categoryPrefix": "NA",
+  "bank": "NA25_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:23:20.657Z",
+  "files": [
+    {
+      "path": "Airbus A220 None NA25_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A220%20None%20NA25_R18.jpg",
+      "manufacturer": "Airbus",
+      "model": "A220",
+      "nickname": "None",
+      "bank": "NA25_R18",
+      "categoryPrefix": "NA"
+    },
+    {
+      "path": "Airbus A330Neo None NA25_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A330Neo%20None%20NA25_R18.jpg",
+      "manufacturer": "Airbus",
+      "model": "A330Neo",
+      "nickname": "None",
+      "bank": "NA25_R18",
+      "categoryPrefix": "NA"
+    },
+    {
+      "path": "Boeing 787 Dreamliner NA25_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20787%20Dreamliner%20NA25_R18.jpg",
+      "manufacturer": "Boeing",
+      "model": "787",
+      "nickname": "Dreamliner",
+      "bank": "NA25_R18",
+      "categoryPrefix": "NA"
+    },
+    {
+      "path": "Embraer ERJ-195 E-Jet NA25_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Embraer%20ERJ-195%20E-Jet%20NA25_R18.jfif",
+      "manufacturer": "Embraer",
+      "model": "ERJ-195",
+      "nickname": "E-Jet",
+      "bank": "NA25_R18",
+      "categoryPrefix": "NA"
+    }
+  ]
+}
