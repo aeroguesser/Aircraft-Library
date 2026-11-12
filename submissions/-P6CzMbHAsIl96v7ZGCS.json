@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6CzMbHAsIl96v7ZGCS",
+  "manufacturer": "AgustaWestland",
+  "model": "AW101",
+  "nickname": "Merlin",
+  "categoryPrefix": "NH",
+  "bank": "NH8",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:21:49.355Z",
+  "files": [
+    {
+      "path": "AgustaWestland AW101 Merlin NH8.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/AgustaWestland%20AW101%20Merlin%20NH8.jpg",
+      "manufacturer": "AgustaWestland",
+      "model": "AW101",
+      "nickname": "Merlin",
+      "bank": "NH8",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "Airbus Helicopters H225M Super Cougar NH8.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20Helicopters%20H225M%20Super%20Cougar%20NH8.jfif",
+      "manufacturer": "Airbus Helicopters",
+      "model": "H225M",
+      "nickname": "Super Cougar",
+      "bank": "NH8",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "Changhe Z-18 None NH8.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Changhe%20Z-18%20None%20NH8.jpg",
+      "manufacturer": "Changhe",
+      "model": "Z-18",
+      "nickname": "None",
+      "bank": "NH8",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "Sikorsky S-92 Superhawk NH8.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sikorsky%20S-92%20Superhawk%20NH8.jpg",
+      "manufacturer": "Sikorsky",
+      "model": "S-92",
+      "nickname": "Superhawk",
+      "bank": "NH8",
+      "categoryPrefix": "NH"
+    }
+  ]
+}
