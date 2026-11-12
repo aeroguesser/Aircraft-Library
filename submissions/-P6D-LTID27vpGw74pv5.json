@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D-LTID27vpGw74pv5",
+  "manufacturer": "Boeing",
+  "model": "F-15E",
+  "nickname": "Strike Eagle",
+  "categoryPrefix": "NF",
+  "bank": "NF21_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:26:06.032Z",
+  "files": [
+    {
+      "path": "Boeing F-15E Strike Eagle NF21_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20F-15E%20Strike%20Eagle%20NF21_R18.jfif",
+      "manufacturer": "Boeing",
+      "model": "F-15E",
+      "nickname": "Strike Eagle",
+      "bank": "NF21_R18",
+      "categoryPrefix": "NF"
+    },
+    {
+      "path": "Mikoyan-Gurevich MiG-29 Fulcrum NF21_R18.jpeg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Mikoyan-Gurevich%20MiG-29%20Fulcrum%20NF21_R18.jpeg",
+      "manufacturer": "Mikoyan-Gurevich",
+      "model": "MiG-29",
+      "nickname": "Fulcrum",
+      "bank": "NF21_R18",
+      "categoryPrefix": "NF"
+    },
+    {
+      "path": "Sukhoi Su-27 Flanker NF21_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sukhoi%20Su-27%20Flanker%20NF21_R18.jpg",
+      "manufacturer": "Sukhoi",
+      "model": "Su-27",
+      "nickname": "Flanker",
+      "bank": "NF21_R18",
+      "categoryPrefix": "NF"
+    },
+    {
+      "path": "Sukhoi Su-34 Fullback NF21_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sukhoi%20Su-34%20Fullback%20NF21_R18.jfif",
+      "manufacturer": "Sukhoi",
+      "model": "Su-34",
+      "nickname": "Fullback",
+      "bank": "NF21_R18",
+      "categoryPrefix": "NF"
+    }
+  ]
+}
