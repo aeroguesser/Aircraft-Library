@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D0H_0lCtGAvaguvpv",
+  "manufacturer": "Douglas",
+  "model": "DC-4",
+  "nickname": "None",
+  "categoryPrefix": "VA",
+  "bank": "VA13_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:30:12.310Z",
+  "files": [
+    {
+      "path": "Douglas DC-4 None VA13_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Douglas%20DC-4%20None%20VA13_R18.jpg",
+      "manufacturer": "Douglas",
+      "model": "DC-4",
+      "nickname": "None",
+      "bank": "VA13_R18",
+      "categoryPrefix": "VA"
+    },
+    {
+      "path": "Handley-Page HP.81 Hermes VA13_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Handley-Page%20HP.81%20Hermes%20VA13_R18.jpg",
+      "manufacturer": "Handley-Page",
+      "model": "HP.81",
+      "nickname": "Hermes",
+      "bank": "VA13_R18",
+      "categoryPrefix": "VA"
+    },
+    {
+      "path": "Vickers 700 Viscount VA13_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Vickers%20700%20Viscount%20VA13_R18.jpg",
+      "manufacturer": "Vickers",
+      "model": "700",
+      "nickname": "Viscount",
+      "bank": "VA13_R18",
+      "categoryPrefix": "VA"
+    },
+    {
+      "path": "Vickers 800 Viscount VA13_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Vickers%20800%20Viscount%20VA13_R18.jfif",
+      "manufacturer": "Vickers",
+      "model": "800",
+      "nickname": "Viscount",
+      "bank": "VA13_R18",
+      "categoryPrefix": "VA"
+    }
+  ]
+}
