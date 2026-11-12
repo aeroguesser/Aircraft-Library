@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6CzaWiAcnd5Ue9SckH",
+  "manufacturer": "Airbus",
+  "model": "A220",
+  "nickname": "None",
+  "categoryPrefix": "A",
+  "bank": "A20_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:22:50.728Z",
+  "files": [
+    {
+      "path": "Airbus A220 None A20_R18.webp",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A220%20None%20A20_R18.webp",
+      "manufacturer": "Airbus",
+      "model": "A220",
+      "nickname": "None",
+      "bank": "A20_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Airbus A330Neo None A20_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A330Neo%20None%20A20_R18.jpg",
+      "manufacturer": "Airbus",
+      "model": "A330Neo",
+      "nickname": "None",
+      "bank": "A20_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Boeing 787 Dreamliner A20_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20787%20Dreamliner%20A20_R18.jpg",
+      "manufacturer": "Boeing",
+      "model": "787",
+      "nickname": "Dreamliner",
+      "bank": "A20_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Embraer ERJ-195 E-Jet A20_R18.avif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Embraer%20ERJ-195%20E-Jet%20A20_R18.avif",
+      "manufacturer": "Embraer",
+      "model": "ERJ-195",
+      "nickname": "E-Jet",
+      "bank": "A20_R18",
+      "categoryPrefix": "A"
+    }
+  ]
+}
