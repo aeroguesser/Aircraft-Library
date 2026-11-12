@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D-0zr5jKpKeZE_NBM",
+  "manufacturer": "Boeing",
+  "model": "717",
+  "nickname": "None",
+  "categoryPrefix": "NA",
+  "bank": "NA24_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:24:42.742Z",
+  "files": [
+    {
+      "path": "Boeing 717 None NA24_R18.avif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20717%20None%20NA24_R18.avif",
+      "manufacturer": "Boeing",
+      "model": "717",
+      "nickname": "None",
+      "bank": "NA24_R18",
+      "categoryPrefix": "NA"
+    },
+    {
+      "path": "Boeing 727 None NA24_R18.webp",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20727%20None%20NA24_R18.webp",
+      "manufacturer": "Boeing",
+      "model": "727",
+      "nickname": "None",
+      "bank": "NA24_R18",
+      "categoryPrefix": "NA"
+    },
+    {
+      "path": "Fokker 100 None NA24_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Fokker%20100%20None%20NA24_R18.jfif",
+      "manufacturer": "Fokker",
+      "model": "100",
+      "nickname": "None",
+      "bank": "NA24_R18",
+      "categoryPrefix": "NA"
+    },
+    {
+      "path": "Mcdonnell-Douglas MD-90 None NA24_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Mcdonnell-Douglas%20MD-90%20None%20NA24_R18.jpg",
+      "manufacturer": "Mcdonnell-Douglas",
+      "model": "MD-90",
+      "nickname": "None",
+      "bank": "NA24_R18",
+      "categoryPrefix": "NA"
+    }
+  ]
+}
