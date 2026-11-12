@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6CzuSdSGLOEqA2zx0P",
+  "manufacturer": "Boeing",
+  "model": "717",
+  "nickname": "None",
+  "categoryPrefix": "A",
+  "bank": "A19_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:24:16.852Z",
+  "files": [
+    {
+      "path": "Boeing 717 None A19_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20717%20None%20A19_R18.jfif",
+      "manufacturer": "Boeing",
+      "model": "717",
+      "nickname": "None",
+      "bank": "A19_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Boeing 727 None A19_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20727%20None%20A19_R18.jpg",
+      "manufacturer": "Boeing",
+      "model": "727",
+      "nickname": "None",
+      "bank": "A19_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Fokker 100 None A19_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Fokker%20100%20None%20A19_R18.jpg",
+      "manufacturer": "Fokker",
+      "model": "100",
+      "nickname": "None",
+      "bank": "A19_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Mcdonnell-Douglas MD-90 None A19_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Mcdonnell-Douglas%20MD-90%20None%20A19_R18.jpg",
+      "manufacturer": "Mcdonnell-Douglas",
+      "model": "MD-90",
+      "nickname": "None",
+      "bank": "A19_R18",
+      "categoryPrefix": "A"
+    }
+  ]
+}
