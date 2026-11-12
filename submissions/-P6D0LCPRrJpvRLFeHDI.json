@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D0LCPRrJpvRLFeHDI",
+  "manufacturer": "FMA",
+  "model": "IA-58",
+  "nickname": "Pucara",
+  "categoryPrefix": "NMB",
+  "bank": "NMB1_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:30:31.676Z",
+  "files": [
+    {
+      "path": "FMA IA-58 Pucara NMB1_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/FMA%20IA-58%20Pucara%20NMB1_R18.jpg",
+      "manufacturer": "FMA",
+      "model": "IA-58",
+      "nickname": "Pucara",
+      "bank": "NMB1_R18",
+      "categoryPrefix": "NMB"
+    },
+    {
+      "path": "Grumman E-2C Hawkeye NMB1_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Grumman%20E-2C%20Hawkeye%20NMB1_R18.jpg",
+      "manufacturer": "Grumman",
+      "model": "E-2C",
+      "nickname": "Hawkeye",
+      "bank": "NMB1_R18",
+      "categoryPrefix": "NMB"
+    },
+    {
+      "path": "Grumman OV-1 Mohawk NMB1_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Grumman%20OV-1%20Mohawk%20NMB1_R18.jfif",
+      "manufacturer": "Grumman",
+      "model": "OV-1",
+      "nickname": "Mohawk",
+      "bank": "NMB1_R18",
+      "categoryPrefix": "NMB"
+    },
+    {
+      "path": "Rockwell OV-1-0 Bronco NMB1_R18.jpeg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Rockwell%20OV-1-0%20Bronco%20NMB1_R18.jpeg",
+      "manufacturer": "Rockwell",
+      "model": "OV-1-0",
+      "nickname": "Bronco",
+      "bank": "NMB1_R18",
+      "categoryPrefix": "NMB"
+    }
+  ]
+}
