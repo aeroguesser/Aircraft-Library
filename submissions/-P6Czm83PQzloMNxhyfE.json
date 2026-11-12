@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6Czm83PQzloMNxhyfE",
+  "manufacturer": "Airbus",
+  "model": "A310",
+  "nickname": "MRTT",
+  "categoryPrefix": "C",
+  "bank": "C9",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:23:37.366Z",
+  "files": [
+    {
+      "path": "Airbus A310 MRTT C9.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A310%20MRTT%20C9.jpg",
+      "manufacturer": "Airbus",
+      "model": "A310",
+      "nickname": "MRTT",
+      "bank": "C9",
+      "categoryPrefix": "C"
+    },
+    {
+      "path": "Airbus A330 MRTT C9.avif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A330%20MRTT%20C9.avif",
+      "manufacturer": "Airbus",
+      "model": "A330",
+      "nickname": "MRTT",
+      "bank": "C9",
+      "categoryPrefix": "C"
+    },
+    {
+      "path": "Boeing KC-46 Pegasus C9.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20KC-46%20Pegasus%20C9.jpg",
+      "manufacturer": "Boeing",
+      "model": "KC-46",
+      "nickname": "Pegasus",
+      "bank": "C9",
+      "categoryPrefix": "C"
+    },
+    {
+      "path": "Boeing KC-135 Stratotanker C9.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20KC-135%20Stratotanker%20C9.jpg",
+      "manufacturer": "Boeing",
+      "model": "KC-135",
+      "nickname": "Stratotanker",
+      "bank": "C9",
+      "categoryPrefix": "C"
+    }
+  ]
+}
