@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6CycebjFiduEOe7Bww",
+  "manufacturer": "Aerospatiale",
+  "model": "SN-601",
+  "nickname": "Corvette",
+  "categoryPrefix": "NP",
+  "bank": "NP9_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:18:38.596Z",
+  "files": [
+    {
+      "path": "Aerospatiale SN-601 Corvette NP9_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Aerospatiale%20SN-601%20Corvette%20NP9_R18.jpg",
+      "manufacturer": "Aerospatiale",
+      "model": "SN-601",
+      "nickname": "Corvette",
+      "bank": "NP9_R18",
+      "categoryPrefix": "NP"
+    },
+    {
+      "path": "Dassault 10 Falcon NP9_R18.webp",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Dassault%2010%20Falcon%20NP9_R18.webp",
+      "manufacturer": "Dassault",
+      "model": "10",
+      "nickname": "Falcon",
+      "bank": "NP9_R18",
+      "categoryPrefix": "NP"
+    },
+    {
+      "path": "Lockheed 1329 Jetstar NP9_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Lockheed%201329%20Jetstar%20NP9_R18.jfif",
+      "manufacturer": "Lockheed",
+      "model": "1329",
+      "nickname": "Jetstar",
+      "bank": "NP9_R18",
+      "categoryPrefix": "NP"
+    },
+    {
+      "path": "Rockwell 80 Sabreliner NP9_R18.webp",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Rockwell%2080%20Sabreliner%20NP9_R18.webp",
+      "manufacturer": "Rockwell",
+      "model": "80",
+      "nickname": "Sabreliner",
+      "bank": "NP9_R18",
+      "categoryPrefix": "NP"
+    }
+  ]
+}
