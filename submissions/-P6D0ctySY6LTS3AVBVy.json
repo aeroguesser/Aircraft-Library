@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D0ctySY6LTS3AVBVy",
+  "manufacturer": "Sikorsky",
+  "model": "CH-124",
+  "nickname": "Sea King",
+  "categoryPrefix": "NH",
+  "bank": "NH9_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:31:44.363Z",
+  "files": [
+    {
+      "path": "Sikorsky CH-124 Sea King NH9_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sikorsky%20CH-124%20Sea%20King%20NH9_R18.jpg",
+      "manufacturer": "Sikorsky",
+      "model": "CH-124",
+      "nickname": "Sea King",
+      "bank": "NH9_R18",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "Sikorsky HH-3F Pelican NH9_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sikorsky%20HH-3F%20Pelican%20NH9_R18.jfif",
+      "manufacturer": "Sikorsky",
+      "model": "HH-3F",
+      "nickname": "Pelican",
+      "bank": "NH9_R18",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "Sikorsky HH-52 Sea Guard NH9_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sikorsky%20HH-52%20Sea%20Guard%20NH9_R18.jpg",
+      "manufacturer": "Sikorsky",
+      "model": "HH-52",
+      "nickname": "Sea Guard",
+      "bank": "NH9_R18",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "Sikorsky SH-3 Sea King NH9_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sikorsky%20SH-3%20Sea%20King%20NH9_R18.jpg",
+      "manufacturer": "Sikorsky",
+      "model": "SH-3",
+      "nickname": "Sea King",
+      "bank": "NH9_R18",
+      "categoryPrefix": "NH"
+    }
+  ]
+}
