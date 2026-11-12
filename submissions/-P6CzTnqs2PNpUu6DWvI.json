@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6CzTnqs2PNpUu6DWvI",
+  "manufacturer": "AgustaWestland",
+  "model": "AW-109",
+  "nickname": "None",
+  "categoryPrefix": "NH",
+  "bank": "NH10_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:22:21.160Z",
+  "files": [
+    {
+      "path": "AgustaWestland AW-109 None NH10_R18.webp",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/AgustaWestland%20AW-109%20None%20NH10_R18.webp",
+      "manufacturer": "AgustaWestland",
+      "model": "AW-109",
+      "nickname": "None",
+      "bank": "NH10_R18",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "AgustaWestland AW-119 Koala NH10_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/AgustaWestland%20AW-119%20Koala%20NH10_R18.jpg",
+      "manufacturer": "AgustaWestland",
+      "model": "AW-119",
+      "nickname": "Koala",
+      "bank": "NH10_R18",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "Bell 429 None NH10_R18.webp",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Bell%20429%20None%20NH10_R18.webp",
+      "manufacturer": "Bell",
+      "model": "429",
+      "nickname": "None",
+      "bank": "NH10_R18",
+      "categoryPrefix": "NH"
+    },
+    {
+      "path": "Sikorsky S-76 None NH10_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sikorsky%20S-76%20None%20NH10_R18.jpg",
+      "manufacturer": "Sikorsky",
+      "model": "S-76",
+      "nickname": "None",
+      "bank": "NH10_R18",
+      "categoryPrefix": "NH"
+    }
+  ]
+}
