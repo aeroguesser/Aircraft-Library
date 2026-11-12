@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6CzpwOHmMAw91t9aH5",
+  "manufacturer": "Airbus",
+  "model": "A310",
+  "nickname": "MRTT",
+  "categoryPrefix": "NC",
+  "bank": "NC10",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:23:54.352Z",
+  "files": [
+    {
+      "path": "Airbus A310 MRTT NC10.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A310%20MRTT%20NC10.jpg",
+      "manufacturer": "Airbus",
+      "model": "A310",
+      "nickname": "MRTT",
+      "bank": "NC10",
+      "categoryPrefix": "NC"
+    },
+    {
+      "path": "Airbus A330 MRTT NC10.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A330%20MRTT%20NC10.jpg",
+      "manufacturer": "Airbus",
+      "model": "A330",
+      "nickname": "MRTT",
+      "bank": "NC10",
+      "categoryPrefix": "NC"
+    },
+    {
+      "path": "Boeing KC-46 Pegasus NC10.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20KC-46%20Pegasus%20NC10.jfif",
+      "manufacturer": "Boeing",
+      "model": "KC-46",
+      "nickname": "Pegasus",
+      "bank": "NC10",
+      "categoryPrefix": "NC"
+    },
+    {
+      "path": "Boeing KC-135 Stratotanker NC10.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20KC-135%20Stratotanker%20NC10.jfif",
+      "manufacturer": "Boeing",
+      "model": "KC-135",
+      "nickname": "Stratotanker",
+      "bank": "NC10",
+      "categoryPrefix": "NC"
+    }
+  ]
+}
