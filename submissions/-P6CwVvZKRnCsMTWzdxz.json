@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6CwVvZKRnCsMTWzdxz",
+  "manufacturer": "Aeronca",
+  "model": "L-16",
+  "nickname": "Grasshopper",
+  "categoryPrefix": "NGT",
+  "bank": "NGT5_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:09:22.134Z",
+  "files": [
+    {
+      "path": "Aeronca L-16 Grasshopper NGT5_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Aeronca%20L-16%20Grasshopper%20NGT5_R18.jfif",
+      "manufacturer": "Aeronca",
+      "model": "L-16",
+      "nickname": "Grasshopper",
+      "bank": "NGT5_R18",
+      "categoryPrefix": "NGT"
+    },
+    {
+      "path": "Piper L-4 Grasshopper NGT5_R18.png",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Piper%20L-4%20Grasshopper%20NGT5_R18.png",
+      "manufacturer": "Piper",
+      "model": "L-4",
+      "nickname": "Grasshopper",
+      "bank": "NGT5_R18",
+      "categoryPrefix": "NGT"
+    },
+    {
+      "path": "Stinson L-5 Sentinel NGT5_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Stinson%20L-5%20Sentinel%20NGT5_R18.jpg",
+      "manufacturer": "Stinson",
+      "model": "L-5",
+      "nickname": "Sentinel",
+      "bank": "NGT5_R18",
+      "categoryPrefix": "NGT"
+    },
+    {
+      "path": "Taylorcraft L-2 Grasshopper NGT5_R18.avif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Taylorcraft%20L-2%20Grasshopper%20NGT5_R18.avif",
+      "manufacturer": "Taylorcraft",
+      "model": "L-2",
+      "nickname": "Grasshopper",
+      "bank": "NGT5_R18",
+      "categoryPrefix": "NGT"
+    }
+  ]
+}
