@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6CzY-SIVy5eELCdDjC",
+  "manufacturer": "Airbus",
+  "model": "A220",
+  "nickname": "None",
+  "categoryPrefix": "A",
+  "bank": "A18_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:22:36.247Z",
+  "files": [
+    {
+      "path": "Airbus A220 None A18_R18.avif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Airbus%20A220%20None%20A18_R18.avif",
+      "manufacturer": "Airbus",
+      "model": "A220",
+      "nickname": "None",
+      "bank": "A18_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Embraer ERJ-190 None A18_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Embraer%20ERJ-190%20None%20A18_R18.jpg",
+      "manufacturer": "Embraer",
+      "model": "ERJ-190",
+      "nickname": "None",
+      "bank": "A18_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Mitsubishi MRJ-90 SpaceJet A18_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Mitsubishi%20MRJ-90%20SpaceJet%20A18_R18.jfif",
+      "manufacturer": "Mitsubishi",
+      "model": "MRJ-90",
+      "nickname": "SpaceJet",
+      "bank": "A18_R18",
+      "categoryPrefix": "A"
+    },
+    {
+      "path": "Yakovlev SJ-100 Superjet A18_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Yakovlev%20SJ-100%20Superjet%20A18_R18.jpg",
+      "manufacturer": "Yakovlev",
+      "model": "SJ-100",
+      "nickname": "Superjet",
+      "bank": "A18_R18",
+      "categoryPrefix": "A"
+    }
+  ]
+}
