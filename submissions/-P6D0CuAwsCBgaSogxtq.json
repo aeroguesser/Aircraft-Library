@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D0CuAwsCBgaSogxtq",
+  "manufacturer": "Douglas",
+  "model": "DC-4",
+  "nickname": "None",
+  "categoryPrefix": "NVA",
+  "bank": "NVA12_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:29:57.096Z",
+  "files": [
+    {
+      "path": "Douglas DC-4 None NVA12_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Douglas%20DC-4%20None%20NVA12_R18.jpg",
+      "manufacturer": "Douglas",
+      "model": "DC-4",
+      "nickname": "None",
+      "bank": "NVA12_R18",
+      "categoryPrefix": "NVA"
+    },
+    {
+      "path": "Handley-Page HP.81 Hermes NVA12_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Handley-Page%20HP.81%20Hermes%20NVA12_R18.jpg",
+      "manufacturer": "Handley-Page",
+      "model": "HP.81",
+      "nickname": "Hermes",
+      "bank": "NVA12_R18",
+      "categoryPrefix": "NVA"
+    },
+    {
+      "path": "Vickers 700 Viscount NVA12_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Vickers%20700%20Viscount%20NVA12_R18.jfif",
+      "manufacturer": "Vickers",
+      "model": "700",
+      "nickname": "Viscount",
+      "bank": "NVA12_R18",
+      "categoryPrefix": "NVA"
+    },
+    {
+      "path": "Vickers 800 Viscount NVA12_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Vickers%20800%20Viscount%20NVA12_R18.jfif",
+      "manufacturer": "Vickers",
+      "model": "800",
+      "nickname": "Viscount",
+      "bank": "NVA12_R18",
+      "categoryPrefix": "NVA"
+    }
+  ]
+}
