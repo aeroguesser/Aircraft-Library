@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D-qqFlCQ3coCS56tc",
+  "manufacturer": "Cessna",
+  "model": "172",
+  "nickname": "Skyhawk",
+  "categoryPrefix": "NG",
+  "bank": "NG19_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:28:25.837Z",
+  "files": [
+    {
+      "path": "Cessna 172 Skyhawk NG19_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Cessna%20172%20Skyhawk%20NG19_R18.jpg",
+      "manufacturer": "Cessna",
+      "model": "172",
+      "nickname": "Skyhawk",
+      "bank": "NG19_R18",
+      "categoryPrefix": "NG"
+    },
+    {
+      "path": "Cessna 182 Skylane NG19_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Cessna%20182%20Skylane%20NG19_R18.jpg",
+      "manufacturer": "Cessna",
+      "model": "182",
+      "nickname": "Skylane",
+      "bank": "NG19_R18",
+      "categoryPrefix": "NG"
+    },
+    {
+      "path": "Cessna 206 Stationaire NG19_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Cessna%20206%20Stationaire%20NG19_R18.jpg",
+      "manufacturer": "Cessna",
+      "model": "206",
+      "nickname": "Stationaire",
+      "bank": "NG19_R18",
+      "categoryPrefix": "NG"
+    },
+    {
+      "path": "Cessna 210 Centurion NG19_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Cessna%20210%20Centurion%20NG19_R18.jpg",
+      "manufacturer": "Cessna",
+      "model": "210",
+      "nickname": "Centurion",
+      "bank": "NG19_R18",
+      "categoryPrefix": "NG"
+    }
+  ]
+}
