@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D-ZUkwHfN3BVFJCkF",
+  "manufacturer": "Boeing Vertol",
+  "model": "CH-46",
+  "nickname": "Sea Knight",
+  "categoryPrefix": "VH",
+  "bank": "VH3_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:27:03.880Z",
+  "files": [
+    {
+      "path": "Boeing Vertol CH-46 Sea Knight VH3_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20Vertol%20CH-46%20Sea%20Knight%20VH3_R18.jfif",
+      "manufacturer": "Boeing Vertol",
+      "model": "CH-46",
+      "nickname": "Sea Knight",
+      "bank": "VH3_R18",
+      "categoryPrefix": "VH"
+    },
+    {
+      "path": "Boeing Vertol CH-47 Chinook VH3_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Boeing%20Vertol%20CH-47%20Chinook%20VH3_R18.jpg",
+      "manufacturer": "Boeing Vertol",
+      "model": "CH-47",
+      "nickname": "Chinook",
+      "bank": "VH3_R18",
+      "categoryPrefix": "VH"
+    },
+    {
+      "path": "Piasecki H-21 Shawnee VH3_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Piasecki%20H-21%20Shawnee%20VH3_R18.jpg",
+      "manufacturer": "Piasecki",
+      "model": "H-21",
+      "nickname": "Shawnee",
+      "bank": "VH3_R18",
+      "categoryPrefix": "VH"
+    },
+    {
+      "path": "Piasecki HUP-3 Retriever VH3_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Piasecki%20HUP-3%20Retriever%20VH3_R18.jpg",
+      "manufacturer": "Piasecki",
+      "model": "HUP-3",
+      "nickname": "Retriever",
+      "bank": "VH3_R18",
+      "categoryPrefix": "VH"
+    }
+  ]
+}
