@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D-ykZi1x8p8miWjWi",
+  "manufacturer": "Chance Vought",
+  "model": "OS2U",
+  "nickname": "Kingfisher",
+  "categoryPrefix": "NVF",
+  "bank": "NVF11_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:28:51.481Z",
+  "files": [
+    {
+      "path": "Chance Vought OS2U Kingfisher NVF11_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Chance%20Vought%20OS2U%20Kingfisher%20NVF11_R18.jpg",
+      "manufacturer": "Chance Vought",
+      "model": "OS2U",
+      "nickname": "Kingfisher",
+      "bank": "NVF11_R18",
+      "categoryPrefix": "NVF"
+    },
+    {
+      "path": "Curtiss SB2C Helldiver NVF11_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Curtiss%20SB2C%20Helldiver%20NVF11_R18.jpg",
+      "manufacturer": "Curtiss",
+      "model": "SB2C",
+      "nickname": "Helldiver",
+      "bank": "NVF11_R18",
+      "categoryPrefix": "NVF"
+    },
+    {
+      "path": "Douglas SBD Dauntless NVF11_R18.jfif",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Douglas%20SBD%20Dauntless%20NVF11_R18.jfif",
+      "manufacturer": "Douglas",
+      "model": "SBD",
+      "nickname": "Dauntless",
+      "bank": "NVF11_R18",
+      "categoryPrefix": "NVF"
+    },
+    {
+      "path": "General Motors TBM Avenger NVF11_R18.webp",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/General%20Motors%20TBM%20Avenger%20NVF11_R18.webp",
+      "manufacturer": "General Motors",
+      "model": "TBM",
+      "nickname": "Avenger",
+      "bank": "NVF11_R18",
+      "categoryPrefix": "NVF"
+    }
+  ]
+}
