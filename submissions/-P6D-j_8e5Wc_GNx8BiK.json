@@ -1,0 +1,51 @@
+{
+  "submissionId": "-P6D-j_8e5Wc_GNx8BiK",
+  "manufacturer": "CAP",
+  "model": "230",
+  "nickname": "None",
+  "categoryPrefix": "NAB",
+  "bank": "NAB3_R18",
+  "description": "",
+  "identifyingFeatures": "",
+  "uploaderUid": "0OJsd7EMgcWjFoRPgrfwK3DphWR2",
+  "uploaderName": "TMall12",
+  "publishedAt": "2026-11-12T04:27:49.251Z",
+  "files": [
+    {
+      "path": "CAP 230 None NAB3_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/CAP%20230%20None%20NAB3_R18.jpg",
+      "manufacturer": "CAP",
+      "model": "230",
+      "nickname": "None",
+      "bank": "NAB3_R18",
+      "categoryPrefix": "NAB"
+    },
+    {
+      "path": "Extra 300 None NAB3_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Extra%20300%20None%20NAB3_R18.jpg",
+      "manufacturer": "Extra",
+      "model": "300",
+      "nickname": "None",
+      "bank": "NAB3_R18",
+      "categoryPrefix": "NAB"
+    },
+    {
+      "path": "Sukhoi Su-31 None NAB3_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Sukhoi%20Su-31%20None%20NAB3_R18.jpg",
+      "manufacturer": "Sukhoi",
+      "model": "Su-31",
+      "nickname": "None",
+      "bank": "NAB3_R18",
+      "categoryPrefix": "NAB"
+    },
+    {
+      "path": "Zivko Edge 540 None NAB3_R18.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/aeroguesser/Aircraft-Library/main/Zivko%20Edge%20540%20None%20NAB3_R18.jpg",
+      "manufacturer": "Zivko Edge",
+      "model": "540",
+      "nickname": "None",
+      "bank": "NAB3_R18",
+      "categoryPrefix": "NAB"
+    }
+  ]
+}
